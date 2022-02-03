@@ -1,2 +1,2 @@
 # governer
-A shell script written in bash to change the CPU Governer in linux :)
+A shell script to change the CPU Governer in linux :)
